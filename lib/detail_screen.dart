@@ -56,7 +56,7 @@ class DetailScreen extends StatelessWidget {
                         letterSpacing: 1.0,
                       ),
                     ),
-                    const SizedBox(height: 24),
+                    const SizedBox(height: 25),
                     Container(height: 1, color: const Color(0xFF2A2A2A)),
                     const SizedBox(height: 24),
                     Row(
