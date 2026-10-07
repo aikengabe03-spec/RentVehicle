@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:projectuts/data.dart';
-import 'package:projectuts/schedule_screen.dart'; // Menyesuaikan dengan nama file shcedule_screen.dart
+import 'package:projectuts/schedule_screen.dart';
 
 class DetailScreen extends StatelessWidget {
   final Map<String, dynamic> vehicle;
